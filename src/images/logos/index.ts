@@ -18,6 +18,7 @@ import Minimal from "./minimal.svg";
 import BeartoothLogo from "./beartooth.webp";
 import MontanaLogo from "./montana.png";
 import IeeeLogo from "./ieee.png";
+import BatuhanInfoLogo from "./bm.png";
 
 export {
   ConsultlyLogo,
@@ -40,4 +41,5 @@ export {
   BeartoothLogo,
   MontanaLogo,
   IeeeLogo
+  BatuhanInfoLogo
 };
