@@ -40,6 +40,6 @@ export {
   Minimal,
   BeartoothLogo,
   MontanaLogo,
-  IeeeLogo
+  IeeeLogo,
   BatuhanInfoLogo
 };
