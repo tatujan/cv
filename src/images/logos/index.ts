@@ -15,6 +15,9 @@ import ParabolLogo from "./parabol.svg";
 import TastyCloudLogo from "./tastycloud.png";
 import YearProgressLogo from "./yearprogress.svg";
 import Minimal from "./minimal.svg";
+import BeartoothLogo from "./beartooth.webp";
+import MontanaLogo from "./montana.png";
+import IeeeLogo from "./ieee.png";
 
 export {
   ConsultlyLogo,
@@ -34,4 +37,7 @@ export {
   TastyCloudLogo,
   YearProgressLogo,
   Minimal,
+  BeartoothLogo,
+  MontanaLogo,
+  IeeeLogo
 };
