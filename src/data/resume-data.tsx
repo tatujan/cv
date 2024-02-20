@@ -33,7 +33,7 @@ export const RESUME_DATA = {
   summary:
     "As a Lead Product Engineer I research, develop and build prototypes in Resource-Constrained Networks for Mission-Critical Applications. I build production instructions, maintain active projects and overall provide insight and consultation about resource-constrained networks. Recently, I started to take more responsibility in business strategy and marketing.",
   avatarUrl: "  https://avatars.githubusercontent.com/u/7893713?s=400&u=32c35406ad5ea1d8175731de486fb9178e16dea9&v=4",
-  personalWebsiteUrl: "https://bmekiker.me",
+  personalWebsiteUrl: "https://bmekiker.info",
   contact: {
     email: "batuhanmekiker@gmail.com",
     tel: "",
