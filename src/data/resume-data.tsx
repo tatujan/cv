@@ -122,7 +122,7 @@ export const RESUME_DATA = {
   ],
   projects: [
     {
-      title: "TTS vs. Audio Codecs in Bandwidth-Constrained Networks",
+      title: "Evaluating Text-to-Speech and Audio Codec Performance For Voice Communication in Resource-Constrained Networks",
       techStack: [
         "Python",
         "TensorFLOW",
@@ -130,8 +130,8 @@ export const RESUME_DATA = {
       description: "A comprehensive comparative analysis on Text-to-Speech model generated audio and audio codec processed voice recordings in bandwidth-constrained networks.",
       logo: MontanaLogo,
       link: {
-        label: "",
-        href: "",
+        label: "wimob.org/wimob2024",
+        href: "http://www.wimob.org/wimob2024/programme.php",
       },
     },
     {
