@@ -119,6 +119,8 @@ export const RESUME_DATA = {
     "Git",
     "LaTEX",
     "Research",
+    "Business Strategy",
+    "Solution Architect",
   ],
   projects: [
     {
@@ -130,8 +132,8 @@ export const RESUME_DATA = {
       description: "A comprehensive comparative analysis on Text-to-Speech model generated audio and audio codec processed voice recordings in bandwidth-constrained networks.",
       logo: MontanaLogo,
       link: {
-        label: "wimob.org/wimob2024",
-        href: "http://www.wimob.org/wimob2024/programme.php",
+        label: "IEEE Xplore",
+        href: "https://ieeexplore.ieee.org/document/10770530",
       },
     },
     {
@@ -152,7 +154,7 @@ export const RESUME_DATA = {
         "Designed and implemented a proof-of-concept simulation for parallel execution on SoCC Blockhains with OCC [3].",
       logo: IeeeLogo,
       link: {
-        label: "ieeexplore.ieee.org",
+        label: "IEEE Xplore",
         href: "https://ieeexplore.ieee.org/abstract/document/9682147",
       },
     },
@@ -163,7 +165,7 @@ export const RESUME_DATA = {
         "Designed a flexible novel link layer protocol on LoRa physical layer to scale bandwidth-constrained networks and to be used in situational awareness and mission-critical applications.",
       logo: IeeeLogo,
       link: {
-        label: "ieeexplore.ieee.org",
+        label: "IEEE Xplore",
         href: "https://ieeexplore.ieee.org/abstract/document/9522224",
       },
     },
